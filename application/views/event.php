@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -8,10 +8,10 @@
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <script src="main.js"></script>
 </head>
-<body style="margin: 175px; font-family: monospace; font-style: italic; font-size: 5mm; background-color: yellow;text-align: center;">
-<img style="width:200px;" src="<?= base_url()?>assets/3.png" alt="">
-<h2><p><br>Ayo Gowes Kerr!!</br> </p></h2>
-<p>Gowes Malang diadakan setiap sebulan sekali. Ikutilah kesempatan ini dan terdapat doorprize jutaan rupiah!!</p>
+<body style="margin: 175px; font-family: monospace; font-style: italic; font-size: 5mm; background-color: white;text-align: center;">
+<img style="width:200px;" src="<?= base_url()?>assets/3.JPEG" alt="">
+<h2><p><br>BERKARYALAH!!</br> </p></h2>
+<p> Bekerja dan berkayalah sebaik mungkin, setulus mungkin. Dimanapun kakimu berpijak ciptakanlah langitmu sendiri dan jika kamu percaya pada apa yang kamu lakukan, tidak akan ada yang menghambat pekerjaanmu  </p>
     
 </body>
 </html>

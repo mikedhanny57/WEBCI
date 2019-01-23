@@ -106,22 +106,22 @@ background: #707070;
                                 <div class="row">
                                     <div class="col-md-3">
                                         <a href="#">
-                                            <img src="<?= base_url()?>/assets/5.jpeg" alt="Image" style="max-width:100%;">
+                                            <img src="<?= base_url()?>/assets/5.JPG" alt="Image" style="max-width:100%;">
                                         </a>
                                     </div>
                                     <div class="col-md-3">
                                         <a href="#">
-                                            <img src="<?= base_url()?>/assets/6.jpeg" alt="Image" style="max-width:100%;">
+                                            <img src="<?= base_url()?>/assets/6.JPG" alt="Image" style="max-width:100%;">
                                         </a>
                                     </div>
                                     <div class="col-md-3">
                                         <a href="#">
-                                            <img src="<?= base_url()?>/assets/7.jpeg" alt="Image" style="max-width:100%;">
+                                            <img src="<?= base_url()?>/assets/7.JPG" alt="Image" style="max-width:100%;">
                                         </a>
                                     </div>
                                     <div class="col-md-3">
                                         <a href="#">
-                                            <img src="<?= base_url()?>/assets/4.jpeg" alt="Image" style="max-width:100%;">
+                                            <img src="<?= base_url()?>/assets/4.JPG" alt="Image" style="max-width:100%;">
                                         </a>
                                     </div>
                                 </div>

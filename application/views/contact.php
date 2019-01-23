@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -25,6 +25,6 @@
 <body style="margin: 175px; font-family: fantasy; background: linear-gradient(135deg,#325adf 0%, #e7530f 100%); text-align: center;">
 <img style="width: 200px;margin-bottom: 95px;" src="<?=base_url()?>assets/2.png" alt="">
 <br>
-<a href="https://www.instagram.com/baktiarp/?h1=en">Kunjungi Instagram Awkarin</a>    
+<a href="https://www.instagram.com/crawl_co/">Kunjungi Instagram CRAWL_CO</a>    
 </body>
 </html>
